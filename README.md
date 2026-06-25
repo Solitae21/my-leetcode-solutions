@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 4 | 1 | 0 | 5 |
-| **Total** | **4** | **1** | **0** | **5** |
+| Top Interview 150 | 4 | 2 | 0 | 6 |
+| **Total** | **4** | **2** | **0** | **6** |
 
 ## Structure
 
@@ -19,7 +19,8 @@ top-interview-150/
 │   ├── removeDuplicatesFromSortedArray.ts
 │   └── majorityElement.ts
 └── medium/
-    └── removeDuplicatesFromSortedArray2.ts
+    ├── removeDuplicatesFromSortedArray2.ts
+    └── rotateArray.ts
 ```
 
 ## Solutions
@@ -40,6 +41,7 @@ top-interview-150/
 | # | Problem | Solution | Topics |
 |---|---------|----------|--------|
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [TypeScript](top-interview-150/medium/removeDuplicatesFromSortedArray2.ts) | Array, Two Pointers |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [TypeScript](top-interview-150/medium/rotateArray.ts) | Array, Math, Two Pointers |
 
 ## Tech Stack
 
