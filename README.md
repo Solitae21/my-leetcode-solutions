@@ -6,14 +6,15 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 4 | 2 | 0 | 6 |
-| **Total** | **4** | **2** | **0** | **6** |
+| Top Interview 150 | 5 | 2 | 0 | 7 |
+| **Total** | **5** | **2** | **0** | **7** |
 
 ## Structure
 
 ```
 top-interview-150/
 ├── easy/
+│   ├── bestTimeToSellStock.ts
 │   ├── mergeSortedArray.ts
 │   ├── removeElement.ts
 │   ├── removeDuplicatesFromSortedArray.ts
@@ -32,6 +33,7 @@ top-interview-150/
 | # | Problem | Solution | Topics |
 |---|---------|----------|--------|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [TypeScript](top-interview-150/easy/removeDuplicatesFromSortedArray.ts) | Array, Two Pointers |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [TypeScript](top-interview-150/easy/bestTimeToSellStock.ts) | Array, Dynamic Programming |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [TypeScript](top-interview-150/easy/removeElement.ts) | Array, Two Pointers |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [TypeScript](top-interview-150/easy/mergeSortedArray.ts) | Array, Two Pointers, Sorting |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [TypeScript](top-interview-150/easy/majorityElement.ts) | Array, Hash Table, Boyer-Moore Voting |
