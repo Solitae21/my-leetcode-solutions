@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 5 | 2 | 0 | 7 |
-| **Total** | **5** | **2** | **0** | **7** |
+| Top Interview 150 | 5 | 3 | 0 | 8 |
+| **Total** | **5** | **3** | **0** | **8** |
 
 ## Structure
 
@@ -21,7 +21,8 @@ top-interview-150/
 │   └── majorityElement.ts
 └── medium/
     ├── removeDuplicatesFromSortedArray2.ts
-    └── rotateArray.ts
+    ├── rotateArray.ts
+    └── bestTimeToBnsStocks2.ts
 ```
 
 ## Solutions
@@ -43,6 +44,7 @@ top-interview-150/
 | # | Problem | Solution | Topics |
 |---|---------|----------|--------|
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [TypeScript](top-interview-150/medium/removeDuplicatesFromSortedArray2.ts) | Array, Two Pointers |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [TypeScript](top-interview-150/medium/bestTimeToBnsStocks2.ts) | Array, Dynamic Programming, Greedy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [TypeScript](top-interview-150/medium/rotateArray.ts) | Array, Math, Two Pointers |
 
 ## Tech Stack
