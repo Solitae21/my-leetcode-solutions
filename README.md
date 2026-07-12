@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 5 | 7 | 0 | 12 |
-| **Total** | **5** | **7** | **0** | **12** |
+| Top Interview 150 | 5 | 8 | 0 | 13 |
+| **Total** | **5** | **8** | **0** | **13** |
 
 ## Structure
 
@@ -26,7 +26,8 @@ top-interview-150/
     ├── jumpGame.ts
     ├── jumpGame2.ts
     ├── hIndex.ts
-    └── insertDeleteGetRandom.ts
+    ├── insertDeleteGetRandom.ts
+    └── productOfArrayExceptSelf.ts
 ```
 
 ## Solutions
@@ -54,6 +55,7 @@ top-interview-150/
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [TypeScript](top-interview-150/medium/jumpGame2.ts) | Array, Dynamic Programming, Greedy |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [TypeScript](top-interview-150/medium/hIndex.ts) | Array, Sorting, Counting Sort |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [TypeScript](top-interview-150/medium/insertDeleteGetRandom.ts) | Array, Hash Table, Design, Randomized |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [TypeScript](top-interview-150/medium/productOfArrayExceptSelf.ts) | Array, Prefix Sum |
 
 ## Tech Stack
 
