@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 5 | 8 | 0 | 13 |
-| **Total** | **5** | **8** | **0** | **13** |
+| Top Interview 150 | 5 | 9 | 0 | 14 |
+| **Total** | **5** | **9** | **0** | **14** |
 
 ## Structure
 
@@ -27,7 +27,8 @@ top-interview-150/
     ├── jumpGame2.ts
     ├── hIndex.ts
     ├── insertDeleteGetRandom.ts
-    └── productOfArrayExceptSelf.ts
+    ├── productOfArrayExceptSelf.ts
+    └── gasStation.ts
 ```
 
 ## Solutions
@@ -56,6 +57,7 @@ top-interview-150/
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [TypeScript](top-interview-150/medium/hIndex.ts) | Array, Sorting, Counting Sort |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [TypeScript](top-interview-150/medium/insertDeleteGetRandom.ts) | Array, Hash Table, Design, Randomized |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [TypeScript](top-interview-150/medium/productOfArrayExceptSelf.ts) | Array, Prefix Sum |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [TypeScript](top-interview-150/medium/gasStation.ts) | Array, Greedy |
 
 ## Tech Stack
 
