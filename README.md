@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 5 | 9 | 0 | 14 |
-| **Total** | **5** | **9** | **0** | **14** |
+| Top Interview 150 | 5 | 9 | 1 | 15 |
+| **Total** | **5** | **9** | **1** | **15** |
 
 ## Structure
 
@@ -19,16 +19,18 @@ top-interview-150/
 │   ├── removeElement.ts
 │   ├── removeDuplicatesFromSortedArray.ts
 │   └── majorityElement.ts
-└── medium/
-    ├── removeDuplicatesFromSortedArray2.ts
-    ├── rotateArray.ts
-    ├── bestTimeToBnsStocks2.ts
-    ├── jumpGame.ts
-    ├── jumpGame2.ts
-    ├── hIndex.ts
-    ├── insertDeleteGetRandom.ts
-    ├── productOfArrayExceptSelf.ts
-    └── gasStation.ts
+├── medium/
+│   ├── removeDuplicatesFromSortedArray2.ts
+│   ├── rotateArray.ts
+│   ├── bestTimeToBnsStocks2.ts
+│   ├── jumpGame.ts
+│   ├── jumpGame2.ts
+│   ├── hIndex.ts
+│   ├── insertDeleteGetRandom.ts
+│   ├── productOfArrayExceptSelf.ts
+│   └── gasStation.ts
+└── hard/
+    └── candy.ts
 ```
 
 ## Solutions
@@ -58,6 +60,12 @@ top-interview-150/
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [TypeScript](top-interview-150/medium/insertDeleteGetRandom.ts) | Array, Hash Table, Design, Randomized |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [TypeScript](top-interview-150/medium/productOfArrayExceptSelf.ts) | Array, Prefix Sum |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [TypeScript](top-interview-150/medium/gasStation.ts) | Array, Greedy |
+
+#### Hard
+
+| # | Problem | Solution | Topics |
+|---|---------|----------|--------|
+| 135 | [Candy](https://leetcode.com/problems/candy/) | [TypeScript](top-interview-150/hard/candy.ts) | Array, Greedy |
 
 ## Tech Stack
 
