@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 5 | 9 | 1 | 15 |
-| **Total** | **5** | **9** | **1** | **15** |
+| Top Interview 150 | 5 | 9 | 2 | 16 |
+| **Total** | **5** | **9** | **2** | **16** |
 
 ## Structure
 
@@ -30,7 +30,8 @@ top-interview-150/
 │   ├── productOfArrayExceptSelf.ts
 │   └── gasStation.ts
 └── hard/
-    └── candy.ts
+    ├── candy.ts
+    └── trapRainWater.ts
 ```
 
 ## Solutions
@@ -66,6 +67,7 @@ top-interview-150/
 | # | Problem | Solution | Topics |
 |---|---------|----------|--------|
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [TypeScript](top-interview-150/hard/candy.ts) | Array, Greedy |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TypeScript](top-interview-150/hard/trapRainWater.ts) | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
 
 ## Tech Stack
 
