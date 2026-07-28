@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 5 | 9 | 2 | 16 |
-| **Total** | **5** | **9** | **2** | **16** |
+| Top Interview 150 | 6 | 9 | 2 | 17 |
+| **Total** | **6** | **9** | **2** | **17** |
 
 ## Structure
 
@@ -18,7 +18,8 @@ top-interview-150/
 │   ├── mergeSortedArray.ts
 │   ├── removeElement.ts
 │   ├── removeDuplicatesFromSortedArray.ts
-│   └── majorityElement.ts
+│   ├── majorityElement.ts
+│   └── romanToInt.ts
 ├── medium/
 │   ├── removeDuplicatesFromSortedArray2.ts
 │   ├── rotateArray.ts
@@ -47,6 +48,7 @@ top-interview-150/
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [TypeScript](top-interview-150/easy/removeElement.ts) | Array, Two Pointers |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [TypeScript](top-interview-150/easy/mergeSortedArray.ts) | Array, Two Pointers, Sorting |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [TypeScript](top-interview-150/easy/majorityElement.ts) | Array, Hash Table, Boyer-Moore Voting |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [TypeScript](top-interview-150/easy/romanToInt.ts) | Hash Table, Math, String |
 
 #### Medium
 
