@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 6 | 9 | 2 | 17 |
-| **Total** | **6** | **9** | **2** | **17** |
+| Top Interview 150 | 6 | 10 | 2 | 18 |
+| **Total** | **6** | **10** | **2** | **18** |
 
 ## Structure
 
@@ -29,7 +29,8 @@ top-interview-150/
 │   ├── hIndex.ts
 │   ├── insertDeleteGetRandom.ts
 │   ├── productOfArrayExceptSelf.ts
-│   └── gasStation.ts
+│   ├── gasStation.ts
+│   └── intToRoman.ts
 └── hard/
     ├── candy.ts
     └── trapRainWater.ts
@@ -63,6 +64,7 @@ top-interview-150/
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [TypeScript](top-interview-150/medium/insertDeleteGetRandom.ts) | Array, Hash Table, Design, Randomized |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [TypeScript](top-interview-150/medium/productOfArrayExceptSelf.ts) | Array, Prefix Sum |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [TypeScript](top-interview-150/medium/gasStation.ts) | Array, Greedy |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [TypeScript](top-interview-150/medium/intToRoman.ts) | Hash Table, Math, String, Greedy |
 
 #### Hard
 
