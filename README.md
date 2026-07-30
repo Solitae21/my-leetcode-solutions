@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 6 | 10 | 2 | 18 |
-| **Total** | **6** | **10** | **2** | **18** |
+| Top Interview 150 | 7 | 10 | 2 | 19 |
+| **Total** | **7** | **10** | **2** | **19** |
 
 ## Structure
 
@@ -19,7 +19,8 @@ top-interview-150/
 │   ├── removeElement.ts
 │   ├── removeDuplicatesFromSortedArray.ts
 │   ├── majorityElement.ts
-│   └── romanToInt.ts
+│   ├── romanToInt.ts
+│   └── lengthOfLastWord.ts
 ├── medium/
 │   ├── removeDuplicatesFromSortedArray2.ts
 │   ├── rotateArray.ts
@@ -50,6 +51,7 @@ top-interview-150/
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [TypeScript](top-interview-150/easy/mergeSortedArray.ts) | Array, Two Pointers, Sorting |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [TypeScript](top-interview-150/easy/majorityElement.ts) | Array, Hash Table, Boyer-Moore Voting |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [TypeScript](top-interview-150/easy/romanToInt.ts) | Hash Table, Math, String |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [TypeScript](top-interview-150/easy/lengthOfLastWord.ts) | String |
 
 #### Medium
 
