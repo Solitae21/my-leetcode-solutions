@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 7 | 10 | 2 | 19 |
-| **Total** | **7** | **10** | **2** | **19** |
+| Top Interview 150 | 8 | 10 | 2 | 20 |
+| **Total** | **8** | **10** | **2** | **20** |
 
 ## Structure
 
@@ -20,7 +20,8 @@ top-interview-150/
 │   ├── removeDuplicatesFromSortedArray.ts
 │   ├── majorityElement.ts
 │   ├── romanToInt.ts
-│   └── lengthOfLastWord.ts
+│   ├── lengthOfLastWord.ts
+│   └── longestCommonPrefix.ts
 ├── medium/
 │   ├── removeDuplicatesFromSortedArray2.ts
 │   ├── rotateArray.ts
@@ -52,6 +53,7 @@ top-interview-150/
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [TypeScript](top-interview-150/easy/majorityElement.ts) | Array, Hash Table, Boyer-Moore Voting |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [TypeScript](top-interview-150/easy/romanToInt.ts) | Hash Table, Math, String |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [TypeScript](top-interview-150/easy/lengthOfLastWord.ts) | String |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [TypeScript](top-interview-150/easy/longestCommonPrefix.ts) | String, Trie |
 
 #### Medium
 
