@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 8 | 10 | 2 | 20 |
-| **Total** | **8** | **10** | **2** | **20** |
+| Top Interview 150 | 8 | 11 | 2 | 21 |
+| **Total** | **8** | **11** | **2** | **21** |
 
 ## Structure
 
@@ -32,7 +32,8 @@ top-interview-150/
 │   ├── insertDeleteGetRandom.ts
 │   ├── productOfArrayExceptSelf.ts
 │   ├── gasStation.ts
-│   └── intToRoman.ts
+│   ├── intToRoman.ts
+│   └── reverseWordsString.ts
 └── hard/
     ├── candy.ts
     └── trapRainWater.ts
@@ -69,6 +70,7 @@ top-interview-150/
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [TypeScript](top-interview-150/medium/productOfArrayExceptSelf.ts) | Array, Prefix Sum |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [TypeScript](top-interview-150/medium/gasStation.ts) | Array, Greedy |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [TypeScript](top-interview-150/medium/intToRoman.ts) | Hash Table, Math, String, Greedy |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [TypeScript](top-interview-150/medium/reverseWordsString.ts) | Two Pointers, String |
 
 #### Hard
 
