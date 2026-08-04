@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 8 | 11 | 2 | 21 |
-| **Total** | **8** | **11** | **2** | **21** |
+| Top Interview 150 | 8 | 12 | 2 | 22 |
+| **Total** | **8** | **12** | **2** | **22** |
 
 ## Structure
 
@@ -33,7 +33,8 @@ top-interview-150/
 │   ├── productOfArrayExceptSelf.ts
 │   ├── gasStation.ts
 │   ├── intToRoman.ts
-│   └── reverseWordsString.ts
+│   ├── reverseWordsString.ts
+│   └── zigzagConversion.ts
 └── hard/
     ├── candy.ts
     └── trapRainWater.ts
@@ -71,6 +72,7 @@ top-interview-150/
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [TypeScript](top-interview-150/medium/gasStation.ts) | Array, Greedy |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [TypeScript](top-interview-150/medium/intToRoman.ts) | Hash Table, Math, String, Greedy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [TypeScript](top-interview-150/medium/reverseWordsString.ts) | Two Pointers, String |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [TypeScript](top-interview-150/medium/zigzagConversion.ts) | String |
 
 #### Hard
 
