@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 8 | 12 | 2 | 22 |
-| **Total** | **8** | **12** | **2** | **22** |
+| Top Interview 150 | 9 | 12 | 2 | 23 |
+| **Total** | **9** | **12** | **2** | **23** |
 
 ## Structure
 
@@ -21,7 +21,8 @@ top-interview-150/
 │   ├── majorityElement.ts
 │   ├── romanToInt.ts
 │   ├── lengthOfLastWord.ts
-│   └── longestCommonPrefix.ts
+│   ├── longestCommonPrefix.ts
+│   └── needleInHaystack.ts
 ├── medium/
 │   ├── removeDuplicatesFromSortedArray2.ts
 │   ├── rotateArray.ts
@@ -56,6 +57,7 @@ top-interview-150/
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [TypeScript](top-interview-150/easy/romanToInt.ts) | Hash Table, Math, String |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [TypeScript](top-interview-150/easy/lengthOfLastWord.ts) | String |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [TypeScript](top-interview-150/easy/longestCommonPrefix.ts) | String, Trie |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [TypeScript](top-interview-150/easy/needleInHaystack.ts) | Two Pointers, String, String Matching |
 
 #### Medium
 
