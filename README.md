@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 9 | 12 | 2 | 23 |
-| **Total** | **9** | **12** | **2** | **23** |
+| Top Interview 150 | 9 | 12 | 3 | 24 |
+| **Total** | **9** | **12** | **3** | **24** |
 
 ## Structure
 
@@ -38,7 +38,8 @@ top-interview-150/
 │   └── zigzagConversion.ts
 └── hard/
     ├── candy.ts
-    └── trapRainWater.ts
+    ├── trapRainWater.ts
+    └── textJustify.ts
 ```
 
 ## Solutions
@@ -82,6 +83,7 @@ top-interview-150/
 |---|---------|----------|--------|
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [TypeScript](top-interview-150/hard/candy.ts) | Array, Greedy |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TypeScript](top-interview-150/hard/trapRainWater.ts) | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [TypeScript](top-interview-150/hard/textJustify.ts) | Array, String, Simulation |
 
 ## Tech Stack
 
