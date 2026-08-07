@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 9 | 12 | 3 | 24 |
-| **Total** | **9** | **12** | **3** | **24** |
+| Top Interview 150 | 10 | 12 | 3 | 25 |
+| **Total** | **10** | **12** | **3** | **25** |
 
 ## Structure
 
@@ -22,7 +22,8 @@ top-interview-150/
 │   ├── romanToInt.ts
 │   ├── lengthOfLastWord.ts
 │   ├── longestCommonPrefix.ts
-│   └── needleInHaystack.ts
+│   ├── needleInHaystack.ts
+│   └── validPalindrome.ts
 ├── medium/
 │   ├── removeDuplicatesFromSortedArray2.ts
 │   ├── rotateArray.ts
@@ -59,6 +60,7 @@ top-interview-150/
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [TypeScript](top-interview-150/easy/lengthOfLastWord.ts) | String |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [TypeScript](top-interview-150/easy/longestCommonPrefix.ts) | String, Trie |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [TypeScript](top-interview-150/easy/needleInHaystack.ts) | Two Pointers, String, String Matching |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [TypeScript](top-interview-150/easy/validPalindrome.ts) | Two Pointers, String |
 
 #### Medium
 
