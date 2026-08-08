@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 10 | 12 | 3 | 25 |
-| **Total** | **10** | **12** | **3** | **25** |
+| Top Interview 150 | 11 | 12 | 3 | 26 |
+| **Total** | **11** | **12** | **3** | **26** |
 
 ## Structure
 
@@ -23,7 +23,8 @@ top-interview-150/
 │   ├── lengthOfLastWord.ts
 │   ├── longestCommonPrefix.ts
 │   ├── needleInHaystack.ts
-│   └── validPalindrome.ts
+│   ├── validPalindrome.ts
+│   └── isSubsequence.ts
 ├── medium/
 │   ├── removeDuplicatesFromSortedArray2.ts
 │   ├── rotateArray.ts
@@ -61,6 +62,7 @@ top-interview-150/
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [TypeScript](top-interview-150/easy/longestCommonPrefix.ts) | String, Trie |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [TypeScript](top-interview-150/easy/needleInHaystack.ts) | Two Pointers, String, String Matching |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [TypeScript](top-interview-150/easy/validPalindrome.ts) | Two Pointers, String |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [TypeScript](top-interview-150/easy/isSubsequence.ts) | Two Pointers, String, Dynamic Programming |
 
 #### Medium
 
