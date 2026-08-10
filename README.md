@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 11 | 13 | 3 | 27 |
-| **Total** | **11** | **13** | **3** | **27** |
+| Top Interview 150 | 11 | 14 | 3 | 28 |
+| **Total** | **11** | **14** | **3** | **28** |
 
 ## Structure
 
@@ -38,7 +38,8 @@ top-interview-150/
 │   ├── intToRoman.ts
 │   ├── reverseWordsString.ts
 │   ├── zigzagConversion.ts
-│   └── twoSum2.ts
+│   ├── twoSum2.ts
+│   └── containerWithMostWater.ts
 └── hard/
     ├── candy.ts
     ├── trapRainWater.ts
@@ -82,6 +83,7 @@ top-interview-150/
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [TypeScript](top-interview-150/medium/reverseWordsString.ts) | Two Pointers, String |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [TypeScript](top-interview-150/medium/zigzagConversion.ts) | String |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [TypeScript](top-interview-150/medium/twoSum2.ts) | Array, Two Pointers, Binary Search |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [TypeScript](top-interview-150/medium/containerWithMostWater.ts) | Array, Two Pointers, Greedy |
 
 #### Hard
 
