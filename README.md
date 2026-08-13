@@ -6,10 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 11 | 14 | 3 | 28 |
-| **Total** | **11** | **14** | **3** | **28** |
-| Top Interview 150 | 11 | 15 | 3 | 29 |
-| **Total** | **11** | **15** | **3** | **29** |
+| Top Interview 150 | 11 | 17 | 3 | 31 |
+| **Total** | **11** | **17** | **3** | **31** |
 
 ## Structure
 
@@ -41,10 +39,10 @@ top-interview-150/
 │   ├── reverseWordsString.ts
 │   ├── zigzagConversion.ts
 │   ├── twoSum2.ts
-│   └── minSubArrSum.ts
-│   ├── twoSum2.ts
+│   ├── minSubArrSum.ts
 │   ├── containerWithMostWater.ts
-│   └── 3Sum.ts
+│   ├── 3Sum.ts
+│   └── lengthOfLongestSubstring.ts
 └── hard/
     ├── candy.ts
     ├── trapRainWater.ts
@@ -91,6 +89,7 @@ top-interview-150/
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [TypeScript](top-interview-150/medium/minSubArrSum.ts) | Array, Binary Search, Sliding Window, Prefix Sum |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [TypeScript](top-interview-150/medium/containerWithMostWater.ts) | Array, Two Pointers, Greedy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [TypeScript](top-interview-150/medium/3Sum.ts) | Array, Two Pointers, Sorting |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [TypeScript](top-interview-150/medium/lengthOfLongestSubstring.ts) | Hash Table, String, Sliding Window |
 
 #### Hard
 
