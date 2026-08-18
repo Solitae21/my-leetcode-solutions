@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 11 | 17 | 4 | 32 |
-| **Total** | **11** | **17** | **4** | **32** |
+| Top Interview 150 | 11 | 17 | 5 | 33 |
+| **Total** | **11** | **17** | **5** | **33** |
 
 ## Structure
 
@@ -47,7 +47,8 @@ top-interview-150/
     ├── candy.ts
     ├── trapRainWater.ts
     ├── textJustify.ts
-    └── findSubstring.ts
+    ├── findSubstring.ts
+    └── minWindow.ts
 ```
 
 ## Solutions
@@ -100,6 +101,7 @@ top-interview-150/
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [TypeScript](top-interview-150/hard/trapRainWater.ts) | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [TypeScript](top-interview-150/hard/textJustify.ts) | Array, String, Simulation |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [TypeScript](top-interview-150/hard/findSubstring.ts) | Hash Table, String, Sliding Window |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [TypeScript](top-interview-150/hard/minWindow.ts) | Hash Table, String, Sliding Window |
 
 ## Tech Stack
 
