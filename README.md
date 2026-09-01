@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 11 | 17 | 5 | 33 |
-| **Total** | **11** | **17** | **5** | **33** |
+| Top Interview 150 | 11 | 18 | 5 | 34 |
+| **Total** | **11** | **18** | **5** | **34** |
 
 ## Structure
 
@@ -42,7 +42,8 @@ top-interview-150/
 │   ├── minSubArrSum.ts
 │   ├── containerWithMostWater.ts
 │   ├── 3Sum.ts
-│   └── lengthOfLongestSubstring.ts
+│   ├── lengthOfLongestSubstring.ts
+│   └── validSudoku.ts
 └── hard/
     ├── candy.ts
     ├── trapRainWater.ts
@@ -92,6 +93,7 @@ top-interview-150/
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [TypeScript](top-interview-150/medium/containerWithMostWater.ts) | Array, Two Pointers, Greedy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [TypeScript](top-interview-150/medium/3Sum.ts) | Array, Two Pointers, Sorting |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [TypeScript](top-interview-150/medium/lengthOfLongestSubstring.ts) | Hash Table, String, Sliding Window |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [TypeScript](top-interview-150/medium/validSudoku.ts) | Array, Hash Table, Matrix |
 
 #### Hard
 
