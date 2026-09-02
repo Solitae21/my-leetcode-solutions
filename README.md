@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 11 | 18 | 5 | 34 |
-| **Total** | **11** | **18** | **5** | **34** |
+| Top Interview 150 | 11 | 19 | 5 | 35 |
+| **Total** | **11** | **19** | **5** | **35** |
 
 ## Structure
 
@@ -43,6 +43,7 @@ top-interview-150/
 │   ├── containerWithMostWater.ts
 │   ├── 3Sum.ts
 │   ├── lengthOfLongestSubstring.ts
+│   ├── spiralOrder.ts
 │   └── validSudoku.ts
 └── hard/
     ├── candy.ts
@@ -93,6 +94,7 @@ top-interview-150/
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [TypeScript](top-interview-150/medium/containerWithMostWater.ts) | Array, Two Pointers, Greedy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [TypeScript](top-interview-150/medium/3Sum.ts) | Array, Two Pointers, Sorting |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [TypeScript](top-interview-150/medium/lengthOfLongestSubstring.ts) | Hash Table, String, Sliding Window |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [TypeScript](top-interview-150/medium/spiralOrder.ts) | Array, Matrix, Simulation |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [TypeScript](top-interview-150/medium/validSudoku.ts) | Array, Hash Table, Matrix |
 
 #### Hard
