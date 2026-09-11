@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 11 | 21 | 5 | 37 |
-| **Total** | **11** | **21** | **5** | **37** |
+| Top Interview 150 | 11 | 22 | 5 | 38 |
+| **Total** | **11** | **22** | **5** | **38** |
 
 ## Structure
 
@@ -46,6 +46,7 @@ top-interview-150/
 │   ├── spiralOrder.ts
 │   ├── rotate.ts
 │   ├── setZeroes.ts
+│   ├── gameOfLife.ts
 │   └── validSudoku.ts
 └── hard/
     ├── candy.ts
@@ -99,6 +100,7 @@ top-interview-150/
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [TypeScript](top-interview-150/medium/spiralOrder.ts) | Array, Matrix, Simulation |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [TypeScript](top-interview-150/medium/rotate.ts) | Array, Matrix, Math |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [TypeScript](top-interview-150/medium/setZeroes.ts) | Array, Hash Table, Matrix |
+| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [TypeScript](top-interview-150/medium/gameOfLife.ts) | Array, Matrix, Simulation |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [TypeScript](top-interview-150/medium/validSudoku.ts) | Array, Hash Table, Matrix |
 
 #### Hard
