@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 11 | 22 | 5 | 38 |
-| **Total** | **11** | **22** | **5** | **38** |
+| Top Interview 150 | 12 | 22 | 5 | 39 |
+| **Total** | **12** | **22** | **5** | **39** |
 
 ## Structure
 
@@ -24,7 +24,8 @@ top-interview-150/
 │   ├── longestCommonPrefix.ts
 │   ├── needleInHaystack.ts
 │   ├── validPalindrome.ts
-│   └── isSubsequence.ts
+│   ├── isSubsequence.ts
+│   └── canConstruct.ts
 ├── medium/
 │   ├── removeDuplicatesFromSortedArray2.ts
 │   ├── rotateArray.ts
@@ -75,6 +76,7 @@ top-interview-150/
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [TypeScript](top-interview-150/easy/needleInHaystack.ts) | Two Pointers, String, String Matching |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [TypeScript](top-interview-150/easy/validPalindrome.ts) | Two Pointers, String |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [TypeScript](top-interview-150/easy/isSubsequence.ts) | Two Pointers, String, Dynamic Programming |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [TypeScript](top-interview-150/easy/canConstruct.ts) | Hash Table, String, Counting |
 
 #### Medium
 
