@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 12 | 22 | 5 | 39 |
-| **Total** | **12** | **22** | **5** | **39** |
+| Top Interview 150 | 13 | 22 | 5 | 40 |
+| **Total** | **13** | **22** | **5** | **40** |
 
 ## Structure
 
@@ -25,7 +25,8 @@ top-interview-150/
 │   ├── needleInHaystack.ts
 │   ├── validPalindrome.ts
 │   ├── isSubsequence.ts
-│   └── canConstruct.ts
+│   ├── canConstruct.ts
+│   └── isIsomorphic.ts
 ├── medium/
 │   ├── removeDuplicatesFromSortedArray2.ts
 │   ├── rotateArray.ts
@@ -77,6 +78,7 @@ top-interview-150/
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [TypeScript](top-interview-150/easy/validPalindrome.ts) | Two Pointers, String |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [TypeScript](top-interview-150/easy/isSubsequence.ts) | Two Pointers, String, Dynamic Programming |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [TypeScript](top-interview-150/easy/canConstruct.ts) | Hash Table, String, Counting |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [TypeScript](top-interview-150/easy/isIsomorphic.ts) | Hash Table, String |
 
 #### Medium
 
