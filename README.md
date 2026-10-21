@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 15 | 22 | 5 | 42 |
-| **Total** | **15** | **22** | **5** | **42** |
+| Top Interview 150 | 16 | 22 | 5 | 43 |
+| **Total** | **16** | **22** | **5** | **43** |
 
 ## Structure
 
@@ -24,6 +24,7 @@ top-interview-150/
 │   ├── longestCommonPrefix.ts
 │   ├── needleInHaystack.ts
 │   ├── validPalindrome.ts
+│   ├── validAnagram.ts
 │   ├── isSubsequence.ts
 │   ├── canConstruct.ts
 │   ├── isIsomorphic.ts
@@ -82,6 +83,7 @@ top-interview-150/
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [TypeScript](top-interview-150/easy/canConstruct.ts) | Hash Table, String, Counting |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [TypeScript](top-interview-150/easy/isIsomorphic.ts) | Hash Table, String |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [TypeScript](top-interview-150/easy/wordPattern.ts) | Hash Table, String |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [TypeScript](top-interview-150/easy/validAnagram.ts) | Hash Table, String, Sorting |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TypeScript](top-interview-150/easy/twoSum.ts) | Array, Hash Table |
 
 #### Medium

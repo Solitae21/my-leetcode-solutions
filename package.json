@@ -1,0 +1,26 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "Personal LeetCode solutions written in **TypeScript**, organized by problem list and difficulty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solitae21/my-leetcode-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Solitae21/my-leetcode-solutions/issues"
+  },
+  "homepage": "https://github.com/Solitae21/my-leetcode-solutions#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
