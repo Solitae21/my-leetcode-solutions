@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 16 | 22 | 5 | 43 |
-| **Total** | **16** | **22** | **5** | **43** |
+| Top Interview 150 | 16 | 23 | 5 | 44 |
+| **Total** | **16** | **23** | **5** | **44** |
 
 ## Structure
 
@@ -52,7 +52,8 @@ top-interview-150/
 │   ├── rotate.ts
 │   ├── setZeroes.ts
 │   ├── gameOfLife.ts
-│   └── validSudoku.ts
+│   ├── validSudoku.ts
+│   └── groupAnagram.ts
 └── hard/
     ├── candy.ts
     ├── trapRainWater.ts
@@ -112,6 +113,7 @@ top-interview-150/
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [TypeScript](top-interview-150/medium/setZeroes.ts) | Array, Hash Table, Matrix |
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [TypeScript](top-interview-150/medium/gameOfLife.ts) | Array, Matrix, Simulation |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [TypeScript](top-interview-150/medium/validSudoku.ts) | Array, Hash Table, Matrix |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [TypeScript](top-interview-150/medium/groupAnagram.ts) | Array, Hash Table, String, Sorting |
 
 #### Hard
 
