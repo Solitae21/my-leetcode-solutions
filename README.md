@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 17 | 23 | 5 | 45 |
-| **Total** | **17** | **23** | **5** | **45** |
+| Top Interview 150 | 18 | 23 | 5 | 46 |
+| **Total** | **18** | **23** | **5** | **46** |
 
 ## Structure
 
@@ -30,7 +30,8 @@ top-interview-150/
 │   ├── isIsomorphic.ts
 │   ├── wordPattern.ts
 │   ├── twoSum.ts
-│   └── isHappy.ts
+│   ├── isHappy.ts
+│   └── containsNearbyDuplicate.ts
 ├── medium/
 │   ├── removeDuplicatesFromSortedArray2.ts
 │   ├── rotateArray.ts
@@ -88,6 +89,7 @@ top-interview-150/
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [TypeScript](top-interview-150/easy/validAnagram.ts) | Hash Table, String, Sorting |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TypeScript](top-interview-150/easy/twoSum.ts) | Array, Hash Table |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [TypeScript](top-interview-150/easy/isHappy.ts) | Hash Table, Math, Two Pointers |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [TypeScript](top-interview-150/easy/containsNearbyDuplicate.ts) | Array, Hash Table, Sliding Window |
 
 #### Medium
 
