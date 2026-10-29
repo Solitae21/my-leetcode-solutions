@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 18 | 24 | 5 | 47 |
-| **Total** | **18** | **24** | **5** | **47** |
+| Top Interview 150 | 19 | 24 | 5 | 48 |
+| **Total** | **19** | **24** | **5** | **48** |
 
 ## Structure
 
@@ -31,7 +31,8 @@ top-interview-150/
 │   ├── wordPattern.ts
 │   ├── twoSum.ts
 │   ├── isHappy.ts
-│   └── containsNearbyDuplicate.ts
+│   ├── containsNearbyDuplicate.ts
+│   └── summaryRanges.ts
 ├── medium/
 │   ├── removeDuplicatesFromSortedArray2.ts
 │   ├── rotateArray.ts
@@ -91,6 +92,7 @@ top-interview-150/
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TypeScript](top-interview-150/easy/twoSum.ts) | Array, Hash Table |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [TypeScript](top-interview-150/easy/isHappy.ts) | Hash Table, Math, Two Pointers |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [TypeScript](top-interview-150/easy/containsNearbyDuplicate.ts) | Array, Hash Table, Sliding Window |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [TypeScript](top-interview-150/easy/summaryRanges.ts) | Array |
 
 #### Medium
 
