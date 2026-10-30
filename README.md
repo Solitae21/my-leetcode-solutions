@@ -6,8 +6,8 @@ Personal LeetCode solutions written in **TypeScript**, organized by problem list
 
 | List | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Top Interview 150 | 19 | 24 | 5 | 48 |
-| **Total** | **19** | **24** | **5** | **48** |
+| Top Interview 150 | 19 | 25 | 5 | 49 |
+| **Total** | **19** | **25** | **5** | **49** |
 
 ## Structure
 
@@ -57,7 +57,8 @@ top-interview-150/
 │   ├── gameOfLife.ts
 │   ├── validSudoku.ts
 │   ├── groupAnagram.ts
-│   └── longestConsecutive.ts
+│   ├── longestConsecutive.ts
+│   └── merge.ts
 └── hard/
     ├── candy.ts
     ├── trapRainWater.ts
@@ -122,6 +123,7 @@ top-interview-150/
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [TypeScript](top-interview-150/medium/validSudoku.ts) | Array, Hash Table, Matrix |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [TypeScript](top-interview-150/medium/groupAnagram.ts) | Array, Hash Table, String, Sorting |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [TypeScript](top-interview-150/medium/longestConsecutive.ts) | Array, Hash Table |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [TypeScript](top-interview-150/medium/merge.ts) | Array, Sorting |
 
 #### Hard
 
